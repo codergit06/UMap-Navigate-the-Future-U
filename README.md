@@ -1,5 +1,5 @@
 # 🧭 UMap : ✨ Navigate the Future U ✨
-An AI-driven Career Path Prediction and Guidance System
+An AI-driven Career Path Prediction and Guidance System\n
 About:
 Our Career Path Prediction and Guidance System will assist you in shaping your future and having a better understanding of a pathway to achieve your goals.
 Using advanced algorithms, this system assesses your unique skills, interests, certifications, and experiences to generate a supervised prediction of potential career paths that align with your strengths.
